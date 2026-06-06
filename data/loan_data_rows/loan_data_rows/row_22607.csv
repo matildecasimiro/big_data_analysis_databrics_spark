@@ -1,0 +1,2 @@
+person_age,person_gender,person_education,person_income,person_emp_exp,person_home_ownership,loan_amnt,loan_intent,loan_int_rate,loan_percent_income,cb_person_cred_hist_length,credit_score,previous_loan_defaults_on_file,loan_status
+28.0,female,Associate,67940.0,6,MORTGAGE,4800.0,VENTURE,14.61,0.07,6.0,592,Yes,0

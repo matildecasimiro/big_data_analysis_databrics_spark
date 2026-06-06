@@ -1,0 +1,2 @@
+person_age,person_gender,person_education,person_income,person_emp_exp,person_home_ownership,loan_amnt,loan_intent,loan_int_rate,loan_percent_income,cb_person_cred_hist_length,credit_score,previous_loan_defaults_on_file,loan_status
+28.0,female,Bachelor,31015.0,6,RENT,3500.0,MEDICAL,7.14,0.11,10.0,627,Yes,0
